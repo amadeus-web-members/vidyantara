@@ -9,6 +9,7 @@ variables([
 		//[ 'type' => 'linkedin', 'url' => 'https://www.linkedin.com/in/vidya-shankar-1453ab49/', 'name' => 'Vidya' ],
 	],
 	'footer-variation' => 'no-widget',
+	'no-footer-alt-design' => true,
 	'quotes-display-count' => 5,
 ]);
 
