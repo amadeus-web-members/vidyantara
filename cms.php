@@ -46,8 +46,8 @@ function site_before_render() {
 		'Vidya' => '<span class="h5 cursive">Vidya Shankar Chakravarthy</span>',
 		'VidyAntara' => '<span class="h5 cursive">' . variable('name') . '</span>',
 		'REFLECT' => '<span class="h5 cursive">REFLECT</span>',
-		'Vision' => 'we aspire to create the best rural home-stay in South India with a spiritual ambience that fosters pluralism.',
-		'Mission' => 'our aim is to provide a peaceful and nurturing environment where families bond and integrate their inner and outer selves while cultivating a deeper understanding of their spiritual path and purpose of life.',
+		'Vision' => (nodeIs(SITEHOME) ? 'we ' : 'We' ) . ' aspire to create the best <span class="h5 cursive">rural home-stay</span> in South India with a <span class="h5 cursive">spiritual ambience</span> that fosters pluralism.',
+		'Mission' => 'At <span class="h5 cursive">VidyAntara Family Retreat</span>, our aim is to provide a <b>peaceful and nurturing environment</b>.',
 	]);
 
 	if (hasPageParameter('slider'))
@@ -55,4 +55,9 @@ function site_before_render() {
 
 	if (variable('node') == 'food')
 		variable('skip-container-for-this-page', true);
+}
+
+function before_file() {
+	if (nodeIs('gallery'))
+		echo '<div class="mt-5"></div>' . NEWLINES2;
 }

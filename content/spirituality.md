@@ -1,24 +1,12 @@
-A delicate subject like "spirituality" needs **delicate handling**.
+As a path, it needs time for processing, deep study and work with virtues.
 
-Each of us have a fixed idea of
+Silent contemplation, suitable guided readings and elevating commentaries are some of our offerings for all groups of visitors. In short, we welcome you at %VidyAntara%  to be a part of a positive social evolution, seeking to harmonize and integrate humanity.
 
-* What we are and what the evolutionary aim should be.
-* What act of the Divine / Cosmos brought us here.
-* Whether we believe in a "religion", "spirituality" and its relationship with science.
+---
 
-These perspectives change with time, as we grow. Ideally for the better as our consciousness expands and we grow in awareness.
+## WHY COME HERE?
 
-Silent contemplation, guided readings and elevating commentaries are some of the ways for it to happen.
+Imagine a place where the jazz filled city-life just washes away and you feel as pristine and magnificent as you wish to get. You want to walk your dreams and understand your purpose.
 
-In short, we at %VidyAntara% are **pluralists** embodying that future social evolution, seeking to harmonize and integrate all peoples of the world.
-
-<!--start-engage-->
-<!--//meta
-Email To: vidya@awakentolife.org
-Email Cc: imran@amadeusweb.world
-//meta-->
-
-## Contemplative Feedback
-
-* What is your experience of practicing silent meditation.
-* What titles of books have helped you resolve personal / professional crises.
+* Would you like time to slow down?
+* Would you look around you with "new kindled" spirit and eyes?

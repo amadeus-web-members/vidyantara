@@ -3,7 +3,7 @@
 // *****
 
 $homeVars = [
-	'about-text' => replaceHtml('At %VidyAntara%, %Mission%'),
+	'about-text' => replaceHtml('At %VidyAntara%, %Mission%') . getSnippet('our-aim'),
 	'cta-w-100-link' => pageUrl('membership'),
 	'cta-w-100' => 'Join <span class="cursive">VidyAntara</span> as a member',
 	'suggestions-text' => 'MORE IN THIS SPACE',
