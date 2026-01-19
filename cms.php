@@ -13,10 +13,15 @@ variables([
 	'quotes-display-count' => 5,
 ]);
 
-//if (variable('live')) variable('under-construction', true);
-
 function after_menu() {
 	_headerMenuItem(replaceHtml('<img src="%site-assets%relief-foundation-icon.png" height="40" />'), 'https://relieffoundation.in/', true);
+}
+
+function after_file() {
+	if (nodeIsOneOf(['being-at-vidyantara'])) return;
+	contentBox('visiting-us', 'container');
+	echo getSnippet('visiting-us');
+	contentBox('end');
 }
 
 function enrichThemeVars($vars, $what) {
@@ -24,7 +29,7 @@ function enrichThemeVars($vars, $what) {
 		$sheet = getSheet('slider', false);
 		$items = [];
 		foreach ($sheet->rows as $row)
-			$items[$row[0]] = $sheet->getValue($row, 'value');
+			$items[$row[0]] = renderSingleLineMarkdown($sheet->getValue($row, 'value'), ['echo' => false]);
 		$vars['optional-slider'] = replaceHtml(replaceItems(getSnippet('spa-slider'), $items, '%'));
 		includeThemeManager();
 		$vars['optional-page-css'] = CanvasTheme::HeadCssFor('spa', $vars['optional-page-css']);

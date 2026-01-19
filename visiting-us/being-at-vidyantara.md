@@ -1,8 +1,15 @@
-# Who Can and How to Book to Come?
+%visiting-us-snippet%
+
+---
+
+# Who can and how to book to come?
 
 ## Membership
 
-Offered **only for families** @ Rs 16000/- per year covering 4 trips.
+Visitors referred by members of VidyAntara are welcome 
+Rs 1500/- plus food @ Rs 500/- per day
+
+Offered **for families** @ Rs 16000/- per year covering 4 trips.
 
 ---
 

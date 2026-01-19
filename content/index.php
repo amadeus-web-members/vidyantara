@@ -4,8 +4,8 @@
 
 $homeVars = [
 	'about-text' => replaceHtml('At %VidyAntara%, %Mission%') . getSnippet('our-aim'),
-	'cta-w-100-link' => pageUrl('membership'),
-	'cta-w-100' => 'Join <span class="cursive">VidyAntara</span> as a member',
+	'cta-w-100-link' => pageUrl('being-at-vidyantara'),
+	'cta-w-100' => 'Being at <span class="cursive">VidyAntara</span> and how to reach <span class="cursive">Inner Wisdom</span>.',
 	'suggestions-text' => 'MORE IN THIS SPACE',
 	'last-responsive-image' => replaceHtml('%cdn%photos/vidyantara-05-heart.jpg'),
 ];

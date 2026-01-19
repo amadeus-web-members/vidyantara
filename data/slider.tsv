@@ -1,6 +1,6 @@
 #key	value
 slide1-image	%cdn%photos/vidyantara-01-arial.jpg
-slide1-above	<h2 class="h1 cursive">VidyAntara</h2>
+slide1-above	<h2 class="h1 cursive p-1 rounded-3 bg-light"><a style="color: #8465F2" href="%url%being-at-vidyantara/">VidyAntara <i class="bi bi-hand-index"></i></a></h2>
 slide1-heading	Where time stands still
 slide1-item1	garden fragrance
 slide1-item2	nature's cadence
@@ -8,7 +8,7 @@ slide1-item3	moods elevate
 slide1-item4	bonds await
 
 slide2-image	%cdn%photos/vidyantara-02-cottage.jpg
-slide2-above	<h2 class="h1 cursive">VidyAntara</h2>
+slide2-above	<h2 class="h1 cursive p-1 rounded-3 bg-light"><a style="color: #8465F2" href="%url%being-at-vidyantara/">VidyAntara <i class="bi bi-hand-index"></i></a></h2>
 slide2-heading	Where dawns are tranquil
 slide2-item1	soul filling
 slide2-item2	paced living
