@@ -25,6 +25,7 @@ email	bookings@vidyantara.org
 address	Narasingapuram Village<br />Elavur, Gummidipoondi, TN, India
 timings	Where time itself stands still
 
-local-url	http://localhost/sites/for-vidya/vidyantara/
+local-url	http://localhost/vidyantara/
 live-url	https://vidyantara.org/
+showIn	organizations
 year	2025
